@@ -18,4 +18,4 @@
 To install the package and its dependencies, run:
 
 ```bash
-pip install -r requirements.txt
+pip install git+https://github.com/dbosch1/etf-analysis-tools
